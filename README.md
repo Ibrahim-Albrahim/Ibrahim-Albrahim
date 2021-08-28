@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Ibrahim
+- 👀 I’m interested in Full Stack Developing
+- 🌱 I’m currently learning more about Flask and ReactJS
+- 💞️ I’m looking to collaborate on building new web applications
+- 📫 How to reach me : hemo7f12@gmail.com
+- 🔭 I'm currently working on Nanodegree Projects and develop my skills as a Full-stack developer.
+- 🌱 I'm currently taking a Full-Stack Web Developer Nanodegree from Udacity.
+- ⚡ I am spending all my free time learning coding
